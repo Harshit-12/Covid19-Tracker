@@ -239,7 +239,7 @@ elseif ($place=='Lakshadweep') {
 
 ?>
 <br>
-<a href="Covid Page.php" class="button">Back to Home</a>
+<a href="index.php" class="button">Back to Home</a>
 </center>
 </body>
 </html>
